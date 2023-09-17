@@ -1,0 +1,35 @@
+body, html {
+  margin: 0;
+  height: 100%;
+}
+
+header {
+  height: 4rem;
+  border-bottom: solid 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  min-height: 80vh;
+}
+
+footer {
+  text-align: center;
+  margin: 45px;
+}
+
+img {
+  max-width: 30%;
+  height: auto;
+  display: inline-block;
+  margin: 10px;
+}
+
+#images {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
