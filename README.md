@@ -1,3 +1,1 @@
 # odd-duck
-
-voting
